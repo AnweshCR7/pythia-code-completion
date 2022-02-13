@@ -1,4 +1,4 @@
-# Group 3: Code Completion
+#Code Completion
 **Paper replicating:** [Pythia: AI-assisted Code Completion System](https://arxiv.org/abs/1912.00742)  
 **Dataset:** [150k Python Dataset](https://www.sri.inf.ethz.ch/py150)
 
